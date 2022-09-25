@@ -1,2 +1,2 @@
 # proxySubnetUnique
-## [LIVE](https://laravelapi.farukaydogan.com/instagramunfollowers)
+## [LIVE](https://ip.farukaydogan.com)
