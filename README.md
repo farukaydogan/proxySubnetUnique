@@ -1,2 +1,2 @@
 # proxySubnetUnique
-## [https://ip.farukaydogan.com]LIVE DEMO
+## [https://ip.farukaydogan.com](LIVE DEMO)
